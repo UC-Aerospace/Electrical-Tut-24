@@ -1,2 +1,3 @@
-fp-info-cache
-Tut-Board-backups/
+**/fp-info-cache
+**/*-backups/
+**/.DS_Store
