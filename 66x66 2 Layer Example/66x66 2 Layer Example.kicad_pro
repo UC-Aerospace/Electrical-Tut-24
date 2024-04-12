@@ -59,10 +59,10 @@
         }
       ],
       "drc_exclusions": [
-        "hole_clearance|106506000|106424000|30a07ed6-486d-4f13-8b54-9fadc05b4aeb|8fe29ee4-912b-4d26-9691-f70d389941c2",
-        "hole_clearance|106506000|106424000|8dbaffbe-f993-4008-b735-127c43acf380|8fe29ee4-912b-4d26-9691-f70d389941c2",
-        "hole_clearance|106506000|112524000|a0461a2b-ff1f-4500-ad67-aeee20ea5c20|716c17e1-a5c9-4418-97e0-231852b5a37c",
-        "hole_clearance|106506000|112524000|cdd9bd15-f5f5-4708-99af-72fb9733a7af|716c17e1-a5c9-4418-97e0-231852b5a37c"
+        "hole_clearance|106506000|106424000|8fe29ee4-912b-4d26-9691-f70d389941c2|30a07ed6-486d-4f13-8b54-9fadc05b4aeb",
+        "hole_clearance|106506000|106424000|8fe29ee4-912b-4d26-9691-f70d389941c2|8dbaffbe-f993-4008-b735-127c43acf380",
+        "hole_clearance|106506000|112524000|716c17e1-a5c9-4418-97e0-231852b5a37c|a0461a2b-ff1f-4500-ad67-aeee20ea5c20",
+        "hole_clearance|106506000|112524000|716c17e1-a5c9-4418-97e0-231852b5a37c|cdd9bd15-f5f5-4708-99af-72fb9733a7af"
       ],
       "meta": {
         "version": 2
@@ -186,6 +186,7 @@
       "track_widths": [
         0.0,
         0.1,
+        0.2,
         0.5,
         0.75,
         1.0
@@ -461,7 +462,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.1,
+        "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -513,7 +514,7 @@
         "pattern": "BATT"
       },
       {
-        "netclass": "Default",
+        "netclass": "High Voltage",
         "pattern": "VBUS"
       }
     ]
