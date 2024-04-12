@@ -5,7 +5,7 @@
 	(uuid "b892e170-ef0c-4b15-b39f-f71a7f152a1f")
 	(paper "A3")
 	(title_block
-		(title "Avionics Tutorial Example Board")
+		(title "Avionics Tutorial 50x50mm Example Board")
 		(date "2024-04-12")
 		(rev "B")
 		(company "UC Aerospace")
@@ -6541,16 +6541,6 @@
 	)
 	(wire
 		(pts
-			(xy 356.87 160.02) (xy 373.38 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "69eb8d3d-3cd1-42d8-b6ce-6893679fe8b8")
-	)
-	(wire
-		(pts
 			(xy 389.89 31.75) (xy 389.89 43.18)
 		)
 		(stroke
@@ -8088,6 +8078,16 @@
 			(type default)
 		)
 		(uuid "f881e4d2-6dda-4e03-ba60-807850c545b2")
+	)
+	(wire
+		(pts
+			(xy 356.87 160.02) (xy 373.38 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f88ac77f-2a33-4ffa-a7d0-d96640d5b862")
 	)
 	(wire
 		(pts
@@ -10308,7 +10308,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 39.37 138.43 0)
 			(effects
 				(font
@@ -12534,16 +12534,16 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x04")
-		(at 378.46 157.48 0)
+		(at 378.46 160.02 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6beeb57c-95b1-4181-9098-c29d3074d3c5")
 		(property "Reference" "J5"
-			(at 381 157.4799 0)
+			(at 381 160.0201 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12552,7 +12552,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04"
-			(at 381 160.0199 0)
+			(at 381 157.4801 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12560,8 +12560,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
-			(at 378.46 157.48 0)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
+			(at 378.46 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12570,7 +12570,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 378.46 157.48 0)
+			(at 378.46 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12579,7 +12579,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 378.46 157.48 0)
+			(at 378.46 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
