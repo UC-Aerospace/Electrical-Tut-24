@@ -2071,7 +2071,7 @@
 		(path "/3d4529d6-e69e-4709-866b-d56ea203a822")
 		(sheetname "Root")
 		(sheetfile "Tut-Board.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 3.2 0)
@@ -2479,7 +2479,7 @@
 		(path "/04a003cc-2113-410e-86cf-2efd23c4478e")
 		(sheetname "Root")
 		(sheetfile "Tut-Board.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 3.2 0)
@@ -4797,7 +4797,7 @@
 		(path "/1db50a0f-ca2b-403c-8ab1-9ea7e4266a35")
 		(sheetname "Root")
 		(sheetfile "Tut-Board.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 3.2 0)
@@ -6449,7 +6449,7 @@
 		(path "/96fb89cd-a791-4057-a532-80f90f2f1e9e")
 		(sheetname "Root")
 		(sheetfile "Tut-Board.kicad_sch")
-		(attr smd dnp)
+		(attr smd exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start -0.227064 -0.735)
 			(end 0.227064 -0.735)
@@ -11461,7 +11461,7 @@
 			)
 		)
 		(property "Value" "4K7"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bae1df5b-2a50-41d1-9ae8-032b25c5a6be")
@@ -11640,7 +11640,7 @@
 			(uuid "f3085e0f-fbff-4097-b595-bf4b22168591")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "3fd1cabc-57da-4195-9039-b9f483ede5cb")
 			(effects
@@ -11750,7 +11750,7 @@
 		(path "/487a6b3e-0b63-4db2-bcc9-bf7e9b9d448d")
 		(sheetname "Root")
 		(sheetfile "Tut-Board.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 3.2 0)
@@ -14038,7 +14038,7 @@
 		(path "/dc83ffb9-0877-4f87-a445-6f2e985beef1")
 		(sheetname "Root")
 		(sheetfile "Tut-Board.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.001 -1.27)
 			(end -9.001 3.87)
@@ -15038,7 +15038,7 @@
 			)
 		)
 		(property "Value" "4K7"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bc899eae-5ec6-4582-832f-aef5f8454995")
@@ -15217,7 +15217,7 @@
 			(uuid "6f15f99d-770b-424d-8a5b-827739617391")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "aac15712-859f-4ca4-a93b-4c5a21582b16")
 			(effects
@@ -15875,7 +15875,7 @@
 		(path "/1a665efa-bb92-43e4-a58c-c386338e1304")
 		(sheetname "Root")
 		(sheetfile "Tut-Board.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 0.7 -0.7)
 			(end 0.7 0.7)
@@ -16066,7 +16066,7 @@
 		(path "/96409a15-f6ae-4024-b1c7-252f0ab6d363")
 		(sheetname "Root")
 		(sheetfile "Tut-Board.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 0.7 -0.7)
 			(end 0.7 0.7)
@@ -16258,7 +16258,7 @@
 		(sheetname "Root")
 		(sheetfile "Tut-Board.kicad_sch")
 		(zone_connect 2)
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -0.7 0.7)
 			(end -0.7 -0.7)
@@ -16449,7 +16449,7 @@
 		(path "/94cebdc1-2a33-4e19-b4ef-5ac9d904e39b")
 		(sheetname "Root")
 		(sheetfile "Tut-Board.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -0.7 -0.7)
 			(end 0.7 -0.7)
@@ -16640,7 +16640,7 @@
 		(path "/6f3291d0-d938-4a81-8c49-7173d771c37a")
 		(sheetname "Root")
 		(sheetfile "Tut-Board.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 0.7 -0.7)
 			(end 0.7 0.7)
@@ -16831,7 +16831,7 @@
 		(path "/ef442c82-0d97-41cf-bb56-d917b70a1b58")
 		(sheetname "Root")
 		(sheetfile "Tut-Board.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -0.7 0.7)
 			(end -0.7 -0.7)
@@ -17022,7 +17022,7 @@
 		(path "/600803d8-145a-482d-93d2-cf03aa65cebe")
 		(sheetname "Root")
 		(sheetfile "Tut-Board.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 0.7 0.7)
 			(end -0.7 0.7)
@@ -17213,7 +17213,7 @@
 		(path "/e0dcaf28-808d-47ac-87b6-f744bc4eae9a")
 		(sheetname "Root")
 		(sheetfile "Tut-Board.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 0.7 -0.7)
 			(end 0.7 0.7)
@@ -17404,7 +17404,7 @@
 		(path "/7da5c9af-7316-4db2-8523-c02fdec06bb1")
 		(sheetname "Root")
 		(sheetfile "Tut-Board.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 0.7 0.7)
 			(end -0.7 0.7)
@@ -17595,7 +17595,7 @@
 		(path "/bb0edf5d-3d0b-4a3d-ae58-205c9e787edc")
 		(sheetname "Root")
 		(sheetfile "Tut-Board.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 0.7 0.7)
 			(end -0.7 0.7)
@@ -17786,7 +17786,7 @@
 		(path "/6b2f07a8-b2bd-46aa-876d-fad7817df1ed")
 		(sheetname "Root")
 		(sheetfile "Tut-Board.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -0.7 -0.7)
 			(end 0.7 -0.7)
@@ -17977,7 +17977,7 @@
 		(path "/210e3b03-3eb6-442d-8dcd-4bfa2342d1b1")
 		(sheetname "Root")
 		(sheetfile "Tut-Board.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 0.7 0.7)
 			(end -0.7 0.7)
@@ -18168,7 +18168,7 @@
 		(path "/132c0481-7af2-4595-952e-d7af759e65b5")
 		(sheetname "Root")
 		(sheetfile "Tut-Board.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 0.7 -0.7)
 			(end 0.7 0.7)
@@ -18359,7 +18359,7 @@
 		(path "/dceadcaa-8d70-4228-a268-7d58410a4c39")
 		(sheetname "Root")
 		(sheetfile "Tut-Board.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 0.7 -0.7)
 			(end 0.7 0.7)
@@ -18564,7 +18564,7 @@
 		(path "/5a5a940a-1371-48b7-a620-01c4ad4d65b1")
 		(sheetname "Root")
 		(sheetfile "Tut-Board.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 0.7 0.7)
 			(end -0.7 0.7)

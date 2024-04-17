@@ -9281,7 +9281,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Everlight-Elec-16-213SURC-S530-A4-TR8_C74339.html"
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/150040VS73240.pdf"
 			(at 370.84 54.61 0)
 			(effects
 				(font
@@ -9308,16 +9308,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "16-213SURC/S530-A4/TR8"
-			(at 370.84 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C74339"
+		(property "MPN" "150040VS73240"
 			(at 370.84 54.61 0)
 			(effects
 				(font
@@ -9333,7 +9324,7 @@
 			(uuid "fd4c45b4-7726-4e07-ad0f-e937f0e20b65")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "D8")
 					(unit 1)
@@ -9400,7 +9391,7 @@
 			(uuid "a2de332b-8b5f-45cf-9640-c5bd7a3d306a")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR018")
 					(unit 1)
@@ -9467,7 +9458,7 @@
 			(uuid "89ab6e1c-c522-4f09-8b12-6bfb391abcb7")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR021")
 					(unit 1)
@@ -9530,17 +9521,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" ""
-			(at 356.87 223.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "H1")
 					(unit 1)
@@ -9583,7 +9565,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F0000T5E_C17477.pdf"
+		(property "Datasheet" "~"
 			(at 36.83 74.93 0)
 			(effects
 				(font
@@ -9601,24 +9583,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C17477"
-			(at 36.83 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "0805W8F0000T5E"
-			(at 36.83 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "6fad92c2-5b08-4471-b092-1bffd7bdc230")
 		)
@@ -9626,7 +9590,7 @@
 			(uuid "e3ecf919-5d6b-4951-8e4d-afb162c98e74")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "R1")
 					(unit 1)
@@ -9692,7 +9656,7 @@
 			(uuid "d1d097c4-936b-4d9d-854b-688a7fdc5f8d")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR014")
 					(unit 1)
@@ -9734,7 +9698,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2205311800_UNI-ROYAL-Uniroyal-Elec-0805W8F1001T5E_C17513.pdf"
+		(property "Datasheet" "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"
 			(at 54.61 135.89 0)
 			(effects
 				(font
@@ -9761,16 +9725,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0805W8F1001T5E"
-			(at 54.61 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C17513"
+		(property "MPN" "RMCF0603FT1K00"
 			(at 54.61 135.89 0)
 			(effects
 				(font
@@ -9786,7 +9741,7 @@
 			(uuid "293adccd-4ac0-4d57-ab91-51b037f029ba")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "R2")
 					(unit 1)
@@ -9851,7 +9806,7 @@
 			(uuid "c9c87843-28fe-4f37-8a3a-fc24c258bd0b")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR029")
 					(unit 1)
@@ -9893,7 +9848,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_BOOMELE-Boom-Precision-Elec-2-54-1-2P_C49661.pdf"
+		(property "Datasheet" "~"
 			(at 162.56 143.51 0)
 			(effects
 				(font
@@ -9920,24 +9875,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C146243"
-			(at 162.56 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "2.54-1*3P"
-			(at 162.56 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "d9bc382d-4d57-4b5f-a494-a017a525c0a7")
 		)
@@ -9948,7 +9885,7 @@
 			(uuid "e70bb688-e10c-4058-a751-72af52be14bd")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "J4")
 					(unit 1)
@@ -9993,7 +9930,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn.harwin.com/pdfs/Harwin_PC_PCB_Hardware.pdf"
 			(at 29.21 236.22 0)
 			(effects
 				(font
@@ -10011,16 +9948,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 34.29 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" ""
+		(property "MPN" "S1751-46R"
 			(at 34.29 236.22 0)
 			(effects
 				(font
@@ -10033,7 +9961,7 @@
 			(uuid "5fabb71d-3c54-45cd-a432-e332a6c84845")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "TP2")
 					(unit 1)
@@ -10075,7 +10003,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1808280419_Everlight-Elec-16-213SYGC-S530-E3-TR8_C264408.pdf"
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/150040YS73240.pdf"
 			(at 370.84 43.18 0)
 			(effects
 				(font
@@ -10102,16 +10030,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "16-213SYGC/S530-E3/TR8"
-			(at 370.84 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C264408"
+		(property "MPN" "150040YS73240"
 			(at 370.84 43.18 0)
 			(effects
 				(font
@@ -10127,7 +10046,7 @@
 			(uuid "bd089df3-a53a-4dcf-9b98-534c8a4a37fc")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "D7")
 					(unit 1)
@@ -10192,7 +10111,7 @@
 			(uuid "f6c7d356-2cf8-4be8-aa4c-da7575e476f8")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR07")
 					(unit 1)
@@ -10237,7 +10156,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn.harwin.com/pdfs/Harwin_PC_PCB_Hardware.pdf"
 			(at 363.22 182.88 0)
 			(effects
 				(font
@@ -10255,16 +10174,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 358.14 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" ""
+		(property "MPN" "S1751-46R"
 			(at 358.14 182.88 0)
 			(effects
 				(font
@@ -10277,7 +10187,7 @@
 			(uuid "0fd68617-bb69-4a39-95d0-51380d70880e")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "TP11")
 					(unit 1)
@@ -10321,7 +10231,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21B104KCFNNNE_C28233.pdf"
+		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL10B104KB8NNWC_Spec.pdf"
 			(at 107.95 109.22 0)
 			(effects
 				(font
@@ -10348,16 +10258,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL21B104KCFNNNE"
-			(at 107.95 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C28233"
+		(property "MPN" "CL10B104KB8NNWC"
 			(at 107.95 109.22 0)
 			(effects
 				(font
@@ -10373,7 +10274,7 @@
 			(uuid "7d8db37a-a304-42ac-b98a-686dea138f7a")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "C1")
 					(unit 1)
@@ -10416,7 +10317,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_BOOMELE-Boom-Precision-Elec-2-54-1-2P_C49661.pdf"
+		(property "Datasheet" "~"
 			(at 39.37 138.43 0)
 			(effects
 				(font
@@ -10443,24 +10344,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C49661"
-			(at 39.37 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "2.54-1*2P"
-			(at 39.37 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "ec3164d9-c6b4-45a4-81cc-820ec64dd132")
 		)
@@ -10468,7 +10351,7 @@
 			(uuid "5223f191-80de-410f-b26c-6a5d36b0fb30")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "J2")
 					(unit 1)
@@ -10510,7 +10393,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_YAGEO-RC0805JR-07130RL_C137474.pdf"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 382.27 31.75 0)
 			(effects
 				(font
@@ -10537,16 +10420,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0805JR-07130RL"
-			(at 382.27 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C137474"
+		(property "MPN" "RC0603FR-07130RL"
 			(at 382.27 31.75 0)
 			(effects
 				(font
@@ -10562,7 +10436,7 @@
 			(uuid "e00b80e8-3f17-4b09-afac-071702177872")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "R18")
 					(unit 1)
@@ -10625,17 +10499,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" ""
-			(at 378.46 223.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "H3")
 					(unit 1)
@@ -10701,7 +10566,7 @@
 			(uuid "0eb8133c-703e-44a6-9aa2-1c71a21f3deb")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR016")
 					(unit 1)
@@ -10746,7 +10611,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn.harwin.com/pdfs/Harwin_PC_PCB_Hardware.pdf"
 			(at 78.74 236.22 0)
 			(effects
 				(font
@@ -10764,16 +10629,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 83.82 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" ""
+		(property "MPN" "S1751-46R"
 			(at 83.82 236.22 0)
 			(effects
 				(font
@@ -10786,7 +10642,7 @@
 			(uuid "ff5a71ee-025e-42c3-a86d-f3f0217cdc1e")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "TP7")
 					(unit 1)
@@ -10831,7 +10687,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_YAGEO-RC0805FR-074K7L_C60816.pdf"
+		(property "Datasheet" "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"
 			(at 370.84 91.44 0)
 			(effects
 				(font
@@ -10858,16 +10714,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0805FR-074K7L"
-			(at 370.84 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C60816"
+		(property "MPN" "RC0603FR-074K7L"
 			(at 370.84 91.44 0)
 			(effects
 				(font
@@ -10883,7 +10730,7 @@
 			(uuid "ab3c02d2-39c2-418f-9124-463b7a806edf")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "R14")
 					(unit 1)
@@ -10948,7 +10795,7 @@
 			(uuid "fbda61a2-c414-4c7e-941c-9df2b99e2a20")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR023")
 					(unit 1)
@@ -10993,7 +10840,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2008201032_Foshan-NationStar-Optoelectronics-NCD0603C1_C84264.pdf"
+		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Harvatek%20PDFs/B1931NG--20D001114U1930.pdf"
 			(at 179.832 230.124 0)
 			(effects
 				(font
@@ -11011,16 +10858,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "NCD0603C1"
-			(at 179.832 230.124 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C84264"
+		(property "MPN" "B1931NG--20D001114U1930"
 			(at 179.832 230.124 0)
 			(effects
 				(font
@@ -11036,7 +10874,7 @@
 			(uuid "a3e43718-c242-478b-bb4c-0010735f2bf4")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "D5")
 					(unit 1)
@@ -11102,7 +10940,7 @@
 			(uuid "6bc5a01b-613b-474b-807c-d44fcc65436b")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR06")
 					(unit 1)
@@ -11167,7 +11005,7 @@
 			(uuid "3c0b3a45-c006-4bd4-a428-6fcf4eab6442")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR028")
 					(unit 1)
@@ -11212,7 +11050,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1806122240_Orient-ORH-R36A_C205445.pdf"
+		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Harvatek%20PDFs/B1911UD--20D001014U1930.pdf"
 			(at 67.31 241.3 0)
 			(effects
 				(font
@@ -11230,16 +11068,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ORH-R36A"
-			(at 67.31 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C205445"
+		(property "MPN" "B1911UD--20D001014U1930"
 			(at 67.31 241.3 0)
 			(effects
 				(font
@@ -11255,7 +11084,7 @@
 			(uuid "268fb27d-b27e-4940-adf3-647a57a97344")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "D4")
 					(unit 1)
@@ -11297,7 +11126,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_YAGEO-RC0805JR-07130RL_C137474.pdf"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 382.27 43.18 0)
 			(effects
 				(font
@@ -11324,16 +11153,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0805JR-07130RL"
-			(at 382.27 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C137474"
+		(property "MPN" "RC0603FR-07130RL"
 			(at 382.27 43.18 0)
 			(effects
 				(font
@@ -11349,7 +11169,7 @@
 			(uuid "5b999c83-c527-48cc-9c80-3f47a6e11d5c")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "R19")
 					(unit 1)
@@ -11414,7 +11234,7 @@
 			(uuid "61c09abc-43ad-40f4-95de-47a83a56bc76")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR025")
 					(unit 1)
@@ -11459,7 +11279,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_YAGEO-RC0805FR-074K7L_C60816.pdf"
+		(property "Datasheet" "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"
 			(at 379.73 91.44 0)
 			(effects
 				(font
@@ -11486,16 +11306,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0805FR-074K7L"
-			(at 379.73 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C60816"
+		(property "MPN" "RC0603FR-074K7L"
 			(at 379.73 91.44 0)
 			(effects
 				(font
@@ -11511,7 +11322,7 @@
 			(uuid "eaf89e65-8081-492f-949b-534f9a108ae4")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "R16")
 					(unit 1)
@@ -11574,17 +11385,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" ""
-			(at 378.46 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "H4")
 					(unit 1)
@@ -11647,17 +11449,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" ""
-			(at 356.87 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "H2")
 					(unit 1)
@@ -11702,7 +11495,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_YAGEO-RC0805FR-07470RL_C114564.pdf"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 67.31 250.444 0)
 			(effects
 				(font
@@ -11720,16 +11513,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0805FR-07470RL"
-			(at 67.31 250.444 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C114564"
+		(property "MPN" "RC0805JR-07360RL"
 			(at 67.31 250.444 0)
 			(effects
 				(font
@@ -11745,7 +11529,7 @@
 			(uuid "2a5e6d11-640a-4c0b-85a2-732f0c7532c2")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "R6")
 					(unit 1)
@@ -11811,7 +11595,7 @@
 			(uuid "f484a726-fe3a-43aa-94f6-406f08b6876d")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR010")
 					(unit 1)
@@ -11853,7 +11637,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2205311800_UNI-ROYAL-Uniroyal-Elec-0805W8F1001T5E_C17513.pdf"
+		(property "Datasheet" "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"
 			(at 163.83 57.15 0)
 			(effects
 				(font
@@ -11880,16 +11664,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0805W8F1001T5E"
-			(at 163.83 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C17513"
+		(property "MPN" "RMCF0603FT1K00"
 			(at 163.83 57.15 0)
 			(effects
 				(font
@@ -11905,7 +11680,7 @@
 			(uuid "289d44fd-277f-414a-a716-88fdf7edf9bd")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "R9")
 					(unit 1)
@@ -11948,7 +11723,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F274JT5E_C17588.pdf"
+		(property "Datasheet" "~"
 			(at 233.68 119.38 0)
 			(effects
 				(font
@@ -11966,24 +11741,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C17588"
-			(at 233.68 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "0805W8F274JT5E"
-			(at 233.68 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "b0a67bde-7ded-4c7f-a4b2-3ba1e93dcc64")
 		)
@@ -11991,7 +11748,7 @@
 			(uuid "6b6cc216-c5a0-406d-8b4e-0d6f1708dbfc")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "R13")
 					(unit 1)
@@ -12036,7 +11793,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_YAGEO-RC0805FR-074K7L_C60816.pdf"
+		(property "Datasheet" "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"
 			(at 370.84 124.46 0)
 			(effects
 				(font
@@ -12063,16 +11820,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0805FR-074K7L"
-			(at 370.84 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C60816"
+		(property "MPN" "RC0603FR-074K7L"
 			(at 370.84 124.46 0)
 			(effects
 				(font
@@ -12088,7 +11836,7 @@
 			(uuid "14b9ebb2-5d68-42b0-9e88-3a8e908a7d05")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "R15")
 					(unit 1)
@@ -12130,7 +11878,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL21C200JBANNNC_C1798.pdf"
+		(property "Datasheet" "http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf"
 			(at 139.7 57.15 0)
 			(effects
 				(font
@@ -12166,15 +11914,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C1798"
-			(at 139.7 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "5365c9f9-f6ff-48b5-b640-94a909700b85")
 		)
@@ -12182,7 +11921,7 @@
 			(uuid "fa28426b-8888-4cba-b430-c3e020cfa453")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "C5")
 					(unit 1)
@@ -12226,7 +11965,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21B104KCFNNNE_C28233.pdf"
+		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL10B104KB8NNWC_Spec.pdf"
 			(at 270.51 33.02 0)
 			(effects
 				(font
@@ -12253,16 +11992,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL21B104KCFNNNE"
-			(at 270.51 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C28233"
+		(property "MPN" "CL10B104KB8NNWC"
 			(at 270.51 33.02 0)
 			(effects
 				(font
@@ -12278,7 +12008,7 @@
 			(uuid "4e0423cd-86ab-44b5-8a11-65627ea727c8")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "C11")
 					(unit 1)
@@ -12322,7 +12052,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn.harwin.com/pdfs/Harwin_PC_PCB_Hardware.pdf"
 			(at 246.38 25.4 0)
 			(effects
 				(font
@@ -12349,16 +12079,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 241.3 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" ""
+		(property "MPN" "S1751-46R"
 			(at 241.3 25.4 0)
 			(effects
 				(font
@@ -12371,7 +12092,7 @@
 			(uuid "0184f1ff-2c02-4432-a187-c2cb82b2d441")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "TP10")
 					(unit 1)
@@ -12437,7 +12158,7 @@
 			(uuid "9b538708-6b50-40ad-a733-9ffdf02a7b66")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR03")
 					(unit 1)
@@ -12502,7 +12223,7 @@
 			(uuid "566838f4-f76a-4133-b6e0-752bf58c9b0b")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR032")
 					(unit 1)
@@ -12547,7 +12268,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn.harwin.com/pdfs/Harwin_PC_PCB_Hardware.pdf"
 			(at 57.15 138.43 0)
 			(effects
 				(font
@@ -12565,16 +12286,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 62.23 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" ""
+		(property "MPN" "S1751-46R"
 			(at 62.23 138.43 0)
 			(effects
 				(font
@@ -12587,7 +12299,7 @@
 			(uuid "95f805d0-53c9-4388-b7d9-d14e40be2d5e")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "TP5")
 					(unit 1)
@@ -12629,7 +12341,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2106081502_Shenzhen-Kinghelm-Elec-KH-6X6X5H-STM_C2837531.pdf"
+		(property "Datasheet" "https://www.ckswitches.com/media/1471/pts645.pdf"
 			(at 163.83 105.41 0)
 			(effects
 				(font
@@ -12656,16 +12368,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "KH-6X6X5H-STM"
-			(at 163.83 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C2837531"
+		(property "MPN" "PTS645SM43SMTR92 LFS"
 			(at 163.83 110.49 0)
 			(effects
 				(font
@@ -12681,7 +12384,7 @@
 			(uuid "209efe79-0d01-4a7b-a8de-7754f9b89b75")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "SW2")
 					(unit 1)
@@ -12747,7 +12450,7 @@
 			(uuid "fd07af30-e7d2-49a9-a51f-0cdcf6ff0195")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR05")
 					(unit 1)
@@ -12790,7 +12493,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn.harwin.com/pdfs/Harwin_PC_PCB_Hardware.pdf"
 			(at 368.3 123.19 0)
 			(effects
 				(font
@@ -12808,16 +12511,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 368.3 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" ""
+		(property "MPN" "S1751-46R"
 			(at 368.3 128.27 0)
 			(effects
 				(font
@@ -12830,7 +12524,7 @@
 			(uuid "35f3a2fc-ccc6-4c82-811f-efd7faa5a422")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "TP13")
 					(unit 1)
@@ -12875,7 +12569,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2207291800_ZHOURI-2-54-1-4_C5116483.pdf"
+		(property "Datasheet" "~"
 			(at 378.46 160.02 0)
 			(effects
 				(font
@@ -12885,24 +12579,6 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 378.46 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C5116483"
-			(at 378.46 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "2.54-1*4"
 			(at 378.46 160.02 0)
 			(effects
 				(font
@@ -12924,7 +12600,7 @@
 			(uuid "95207fe8-1b73-49d3-aa20-3fe1329401b8")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "J5")
 					(unit 1)
@@ -12969,7 +12645,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn.harwin.com/pdfs/Harwin_PC_PCB_Hardware.pdf"
 			(at 87.63 24.13 0)
 			(effects
 				(font
@@ -12987,16 +12663,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 82.55 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" ""
+		(property "MPN" "S1751-46R"
 			(at 82.55 24.13 0)
 			(effects
 				(font
@@ -13009,7 +12676,7 @@
 			(uuid "1e8af4f2-1973-4f6c-8d4c-bfd8ff276a43")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "TP6")
 					(unit 1)
@@ -13054,7 +12721,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21B104KCFNNNE_C28233.pdf"
+		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL21B104KBCNNN_Spec.pdf"
 			(at 150.368 226.06 0)
 			(effects
 				(font
@@ -13072,16 +12739,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL21B104KCFNNNE"
-			(at 150.368 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C28233"
+		(property "MPN" "CL21B104KBCNNNC"
 			(at 150.368 226.06 0)
 			(effects
 				(font
@@ -13097,7 +12755,7 @@
 			(uuid "79438721-d04f-4ac2-849c-5e1e1bafebaf")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "C6")
 					(unit 1)
@@ -13140,7 +12798,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F5601T5E_C4382.pdf"
+		(property "Datasheet" "~"
 			(at 66.04 26.67 0)
 			(effects
 				(font
@@ -13158,24 +12816,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C4382"
-			(at 66.04 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "0805W8F5601T5E"
-			(at 66.04 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "319ae34e-d59d-43fd-845e-bb1a795b9462")
 		)
@@ -13183,7 +12823,7 @@
 			(uuid "870a4e7e-bbde-4def-b663-27293681c7af")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "R4")
 					(unit 1)
@@ -13228,7 +12868,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2110280930_YONGYUTAI-SS34_C2909963.pdf"
+		(property "Datasheet" "https://goodarksemi.com/docs/datasheets/schottky_rectifiers/SK32A-SK36A.pdf"
 			(at 54.61 226.06 0)
 			(effects
 				(font
@@ -13246,16 +12886,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SS34"
-			(at 54.61 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C2909963"
+		(property "MPN" "4786-SK34ACT-ND"
 			(at 54.61 226.06 0)
 			(effects
 				(font
@@ -13271,7 +12902,7 @@
 			(uuid "d762b8e7-4e6c-49d5-8bcb-34885dc9bd58")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "D2")
 					(unit 1)
@@ -13316,7 +12947,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_MCC-Micro-Commercial-Components-BZT52C12-TP_C668891.pdf"
+		(property "Datasheet" "https://www.mccsemi.com/pdf/Products/BZT52C2V4~BZT52C75(500mW)(SOD-123).pdf"
 			(at 54.61 241.3 0)
 			(effects
 				(font
@@ -13343,15 +12974,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C668891"
-			(at 54.61 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "529026ce-fac8-4e2d-a41f-5919bce49ea2")
 		)
@@ -13359,7 +12981,7 @@
 			(uuid "fe058759-2a21-436f-a7f9-f18dba26bee9")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "D3")
 					(unit 1)
@@ -13404,7 +13026,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn.harwin.com/pdfs/Harwin_PC_PCB_Hardware.pdf"
 			(at 168.91 110.49 0)
 			(effects
 				(font
@@ -13422,16 +13044,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 173.99 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" ""
+		(property "MPN" "S1751-46R"
 			(at 173.99 110.49 0)
 			(effects
 				(font
@@ -13444,7 +13057,7 @@
 			(uuid "5f6144dd-68a5-45c3-9abb-dc06715027c9")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "TP9")
 					(unit 1)
@@ -13510,7 +13123,7 @@
 			(uuid "dd6e9d9e-4ee0-4a54-8cb7-0dca10668be9")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR035")
 					(unit 1)
@@ -13555,7 +13168,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL21A106KAYNNNE_C15850.pdf"
+		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL21A106KOQNNNE_Spec.pdf"
 			(at 110.49 226.06 0)
 			(effects
 				(font
@@ -13573,16 +13186,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL21C200JBANNNC"
-			(at 110.49 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C15850"
+		(property "MPN" "CL21A106KOQNNNE"
 			(at 110.49 226.06 0)
 			(effects
 				(font
@@ -13598,7 +13202,7 @@
 			(uuid "a5de8a39-d503-42c0-9971-d9f08deaa96a")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "C2")
 					(unit 1)
@@ -13664,7 +13268,7 @@
 			(uuid "dea02c50-cdc5-4482-8974-3e2d0f043939")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR033")
 					(unit 1)
@@ -13729,7 +13333,7 @@
 			(uuid "379b1e25-a2e9-4dd9-89b1-39be8177bb21")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR027")
 					(unit 1)
@@ -13794,7 +13398,7 @@
 			(uuid "fe68017e-2de1-4a11-a689-c51e0ba935f8")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR011")
 					(unit 1)
@@ -13860,7 +13464,7 @@
 			(uuid "66f0315b-f733-4102-97ec-ed4853eed2e2")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR08")
 					(unit 1)
@@ -13904,7 +13508,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21B104KCFNNNE_C28233.pdf"
+		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL10B104KB8NNWC_Spec.pdf"
 			(at 280.67 33.02 0)
 			(effects
 				(font
@@ -13931,16 +13535,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL21B104KCFNNNE"
-			(at 280.67 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C28233"
+		(property "MPN" "CL10B104KB8NNWC"
 			(at 280.67 33.02 0)
 			(effects
 				(font
@@ -13956,7 +13551,7 @@
 			(uuid "d8deff14-18c4-45e9-9e4b-b5c3ffee5c71")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "C12")
 					(unit 1)
@@ -14001,7 +13596,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F1002T5E_C17414.pdf"
+		(property "Datasheet" "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"
 			(at 173.99 105.41 0)
 			(effects
 				(font
@@ -14028,16 +13623,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0805W8F1002T5E"
-			(at 173.99 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C17414"
+		(property "MPN" "RMCF0603FT10K0"
 			(at 173.99 105.41 0)
 			(effects
 				(font
@@ -14053,7 +13639,7 @@
 			(uuid "6ba52920-d681-48bf-bacf-b33eb270859d")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "R10")
 					(unit 1)
@@ -14098,7 +13684,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21B104KCFNNNE_C28233.pdf"
+		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL21B104KBCNNN_Spec.pdf"
 			(at 123.444 226.06 0)
 			(effects
 				(font
@@ -14116,16 +13702,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL21B104KCFNNNE"
-			(at 123.444 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C28233"
+		(property "MPN" "CL21B104KBCNNNC"
 			(at 123.444 226.06 0)
 			(effects
 				(font
@@ -14141,7 +13718,7 @@
 			(uuid "788c9022-584e-4235-b836-1e8fa9a7848b")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "C3")
 					(unit 1)
@@ -14186,7 +13763,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn.harwin.com/pdfs/Harwin_PC_PCB_Hardware.pdf"
 			(at 382.27 100.33 0)
 			(effects
 				(font
@@ -14204,16 +13781,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 382.27 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" ""
+		(property "MPN" "S1751-46R"
 			(at 382.27 95.25 0)
 			(effects
 				(font
@@ -14226,7 +13794,7 @@
 			(uuid "730acecd-d0c0-439b-b106-df6cf2d958ed")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "TP14")
 					(unit 1)
@@ -14271,7 +13839,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn.harwin.com/pdfs/Harwin_PC_PCB_Hardware.pdf"
 			(at 60.96 63.5 0)
 			(effects
 				(font
@@ -14289,16 +13857,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 60.96 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" ""
+		(property "MPN" "S1751-46R"
 			(at 60.96 58.42 0)
 			(effects
 				(font
@@ -14311,7 +13870,7 @@
 			(uuid "9bde5393-2fe5-43d2-b217-257f0e876bb6")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "TP4")
 					(unit 1)
@@ -14355,7 +13914,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 62.23 128.27 0)
 			(effects
 				(font
@@ -14382,15 +13941,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" ""
-			(at 62.23 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "a73ac33f-939f-442b-93ac-190565d72563")
 		)
@@ -14398,7 +13948,7 @@
 			(uuid "5004b73a-1453-476f-b480-fb34f9fe8dfd")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "R3")
 					(unit 1)
@@ -14463,7 +14013,7 @@
 			(uuid "2a2451c7-7557-41d8-a627-2d05e7dd8911")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR013")
 					(unit 1)
@@ -14528,7 +14078,7 @@
 			(uuid "e4e4db49-1302-4e07-843a-91b44e785449")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR034")
 					(unit 1)
@@ -14593,7 +14143,7 @@
 			(uuid "d45b64ed-251e-4179-9db3-0f3888614789")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR04")
 					(unit 1)
@@ -14636,7 +14186,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F274JT5E_C17588.pdf"
+		(property "Datasheet" "~"
 			(at 226.06 121.92 0)
 			(effects
 				(font
@@ -14654,24 +14204,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C17588"
-			(at 226.06 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "0805W8F274JT5E"
-			(at 226.06 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "f0271a84-5879-4e29-b0d3-b49c5c8df91c")
 		)
@@ -14679,7 +14211,7 @@
 			(uuid "b20e144e-a418-4041-b8f5-3e015be0eb91")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "R12")
 					(unit 1)
@@ -14721,7 +14253,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL21C200JBANNNC_C1798.pdf"
+		(property "Datasheet" "http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf"
 			(at 139.7 36.83 0)
 			(effects
 				(font
@@ -14757,15 +14289,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C1798"
-			(at 139.7 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "7a30c852-4b20-4433-a3b2-4c4e5ff8ce6c")
 		)
@@ -14773,7 +14296,7 @@
 			(uuid "d879d30c-5067-4e5e-a168-a83152be96ce")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "C4")
 					(unit 1)
@@ -14816,7 +14339,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Advanced-Monolithic-Systems-AMS1117-3-3_C6186.pdf"
+		(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/baxxdd0-e.pdf"
 			(at 142.24 226.06 0)
 			(effects
 				(font
@@ -14834,16 +14357,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "AMS1117-3.3"
-			(at 139.7 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C6186"
+		(property "MPN" "BA033CC0FP-E2"
 			(at 139.7 219.71 0)
 			(effects
 				(font
@@ -14862,7 +14376,7 @@
 			(uuid "668d8202-5f59-4089-89a7-4aa9aadb00a2")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "U3")
 					(unit 1)
@@ -14927,7 +14441,7 @@
 			(uuid "27696b52-5d2f-4e44-a912-083a62b18dc3")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR026")
 					(unit 1)
@@ -14971,7 +14485,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21B104KCFNNNE_C28233.pdf"
+		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL10B104KB8NNWC_Spec.pdf"
 			(at 303.53 33.02 0)
 			(effects
 				(font
@@ -14998,16 +14512,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL21B104KCFNNNE"
-			(at 303.53 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C28233"
+		(property "MPN" "CL10B104KB8NNWC"
 			(at 303.53 33.02 0)
 			(effects
 				(font
@@ -15023,7 +14528,7 @@
 			(uuid "ff573692-b5c6-4b53-93da-8ddc17e308bd")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "C14")
 					(unit 1)
@@ -15066,7 +14571,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn.harwin.com/pdfs/Harwin_PC_PCB_Hardware.pdf"
 			(at 25.4 207.01 0)
 			(effects
 				(font
@@ -15084,16 +14589,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 25.4 212.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" ""
+		(property "MPN" "S1751-46R"
 			(at 25.4 212.09 0)
 			(effects
 				(font
@@ -15106,7 +14602,7 @@
 			(uuid "4f441063-a061-427a-836c-c7aeaccf4e02")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "TP1")
 					(unit 1)
@@ -15148,7 +14644,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL21B105KBFNNNE_C28323.pdf"
+		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL10B105KA8NNNC_spec.pdf"
 			(at 326.39 33.02 0)
 			(effects
 				(font
@@ -15175,16 +14671,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL21B105KBFNNNE"
-			(at 326.39 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C28323"
+		(property "MPN" "CL10B105KA8NNNC"
 			(at 326.39 33.02 0)
 			(effects
 				(font
@@ -15200,7 +14687,7 @@
 			(uuid "b248bc20-57f4-4329-b31c-782d94fdc599")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "C16")
 					(unit 1)
@@ -15245,7 +14732,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn.harwin.com/pdfs/Harwin_PC_PCB_Hardware.pdf"
 			(at 382.27 133.35 0)
 			(effects
 				(font
@@ -15263,16 +14750,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 382.27 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" ""
+		(property "MPN" "S1751-46R"
 			(at 382.27 128.27 0)
 			(effects
 				(font
@@ -15285,7 +14763,7 @@
 			(uuid "9dfcd9b6-6369-42a0-be93-e3f44a167bbb")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "TP15")
 					(unit 1)
@@ -15350,7 +14828,7 @@
 			(uuid "82b41f77-5b60-402d-9667-9b802aaa38be")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR017")
 					(unit 1)
@@ -15392,7 +14870,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1810010910_Everlight-Elec-16-213UYC-S530-A2-TR8_C136118.pdf"
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/150040RS73240.pdf"
 			(at 370.84 31.75 0)
 			(effects
 				(font
@@ -15419,16 +14897,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "16-213UYC/S530-A2/TR8"
-			(at 370.84 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C136118"
+		(property "MPN" "150040RS73240"
 			(at 370.84 31.75 0)
 			(effects
 				(font
@@ -15444,7 +14913,7 @@
 			(uuid "136e22f5-82da-4ef0-83aa-0899e0621e33")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "D6")
 					(unit 1)
@@ -15509,7 +14978,7 @@
 			(uuid "fdabed0d-be3d-40b6-9609-540b622a2117")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR031")
 					(unit 1)
@@ -15574,7 +15043,7 @@
 			(uuid "dac221a9-7ba4-4793-87f4-ddd16fc02389")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR019")
 					(unit 1)
@@ -15619,7 +15088,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL21A106KAYNNNE_C15850.pdf"
+		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL21A106KOQNNNE_Spec.pdf"
 			(at 163.83 226.06 0)
 			(effects
 				(font
@@ -15637,16 +15106,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL21C200JBANNNC"
-			(at 163.83 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C15850"
+		(property "MPN" "CL21A106KOQNNNE"
 			(at 163.83 226.06 0)
 			(effects
 				(font
@@ -15662,7 +15122,7 @@
 			(uuid "ff5450be-8afa-4c1d-b496-9060aada6c7d")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "C7")
 					(unit 1)
@@ -15706,7 +15166,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21B104KCFNNNE_C28233.pdf"
+		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL10B104KB8NNWC_Spec.pdf"
 			(at 292.1 33.02 0)
 			(effects
 				(font
@@ -15733,16 +15193,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL21B104KCFNNNE"
-			(at 292.1 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C28233"
+		(property "MPN" "CL10B104KB8NNWC"
 			(at 292.1 33.02 0)
 			(effects
 				(font
@@ -15758,7 +15209,7 @@
 			(uuid "269c29e8-5ffe-4796-a8fa-39b0469b8a9e")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "C13")
 					(unit 1)
@@ -15784,7 +15235,7 @@
 				)
 			)
 		)
-		(property "Value" "0.25A"
+		(property "Value" "0.15A"
 			(at 49.53 201.93 90)
 			(effects
 				(font
@@ -15801,7 +15252,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Littelfuse-0467-250NRHF_C151137.pdf"
+		(property "Datasheet" "http://www.kamaya.co.jp/upload/products_pdf/kamaya_products(FMC)_english_20170203_122640.pdf"
 			(at 49.53 205.74 0)
 			(effects
 				(font
@@ -15819,16 +15270,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0467.250NRHF"
-			(at 49.53 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C151137"
+		(property "MPN" "FMC16302WHTP"
 			(at 49.53 205.74 0)
 			(effects
 				(font
@@ -15844,7 +15286,7 @@
 			(uuid "d6bf833b-fe71-4ef6-80c5-95ddfa5a3219")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "F1")
 					(unit 1)
@@ -15910,7 +15352,7 @@
 			(uuid "9ce7be1a-ab02-4961-b9ed-252619653127")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR036")
 					(unit 1)
@@ -15954,7 +15396,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21B104KCFNNNE_C28233.pdf"
+		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL10B104KB8NNWC_Spec.pdf"
 			(at 218.44 33.02 0)
 			(effects
 				(font
@@ -15981,16 +15423,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL21B104KCFNNNE"
-			(at 218.44 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C28233"
+		(property "MPN" "CL10B104KB8NNWC"
 			(at 218.44 33.02 0)
 			(effects
 				(font
@@ -16006,7 +15439,7 @@
 			(uuid "37f9cdc3-1142-47f1-b072-f3485899dd1a")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "C8")
 					(unit 1)
@@ -16071,7 +15504,7 @@
 			(uuid "3dda4c70-1f7d-4119-8c01-98e503ba034a")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR020")
 					(unit 1)
@@ -16114,7 +15547,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010030_UNI-ROYAL-Uniroyal-Elec-0805W8F5101T5E_C27834.pdf"
+		(property "Datasheet" "~"
 			(at 66.04 39.37 0)
 			(effects
 				(font
@@ -16132,24 +15565,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C27834"
-			(at 66.04 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "0805W8F5101T5E"
-			(at 66.04 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "fa019f1d-0a17-40dd-83d3-f57171de37fb")
 		)
@@ -16157,7 +15572,7 @@
 			(uuid "ae6e25fa-597f-40c5-b961-ad54fd2e55b0")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "R5")
 					(unit 1)
@@ -16202,7 +15617,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_YAGEO-RC0805FR-074K7L_C60816.pdf"
+		(property "Datasheet" "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"
 			(at 379.73 124.46 0)
 			(effects
 				(font
@@ -16229,16 +15644,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0805FR-074K7L"
-			(at 379.73 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C60816"
+		(property "MPN" "RC0603FR-074K7L"
 			(at 379.73 124.46 0)
 			(effects
 				(font
@@ -16254,7 +15660,7 @@
 			(uuid "22cc40bd-9c4c-478c-8005-a95cad219ec3")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "R17")
 					(unit 1)
@@ -16299,7 +15705,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010216_UNI-ROYAL-Uniroyal-Elec-0805W8F1002T5E_C17414.pdf"
+		(property "Datasheet" "~"
 			(at 82.55 32.385 0)
 			(effects
 				(font
@@ -16317,24 +15723,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C17414"
-			(at 82.55 32.385 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "0805W8F1002T5E"
-			(at 82.55 32.385 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "68708b37-e618-41dd-8bf3-3f45dee0930e")
 		)
@@ -16342,7 +15730,7 @@
 			(uuid "161bf5e4-6590-44e5-935c-11e434c46cba")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "R8")
 					(unit 1)
@@ -16384,7 +15772,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_YAGEO-RC0805JR-07130RL_C137474.pdf"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 382.27 54.61 0)
 			(effects
 				(font
@@ -16411,16 +15799,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0805JR-07130RL"
-			(at 382.27 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C137474"
+		(property "MPN" "RC0603FR-07130RL"
 			(at 382.27 54.61 0)
 			(effects
 				(font
@@ -16436,7 +15815,7 @@
 			(uuid "d0ca0f84-a142-4df8-993e-98a389f8b63c")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "R20")
 					(unit 1)
@@ -16479,7 +15858,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2110280930_YONGYUTAI-SS34_C2909963.pdf"
+		(property "Datasheet" "https://goodarksemi.com/docs/datasheets/schottky_rectifiers/SK32A-SK36A.pdf"
 			(at 46.99 233.68 0)
 			(effects
 				(font
@@ -16497,16 +15876,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SS34"
-			(at 46.99 233.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C2909963"
+		(property "MPN" "4786-SK34ACT-ND"
 			(at 46.99 233.68 0)
 			(effects
 				(font
@@ -16522,7 +15892,7 @@
 			(uuid "be03b1b8-a3b5-48a5-9eaa-e63b400e6de0")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "D1")
 					(unit 1)
@@ -16583,15 +15953,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" ""
-			(at 381 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "3"
 			(uuid "4cd611d5-9653-440e-9ad6-2283694747d5")
 		)
@@ -16611,7 +15972,7 @@
 			(uuid "225b2c8f-f52d-4229-9437-ff0a57cdffd4")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "U4")
 					(unit 1)
@@ -16654,7 +16015,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn.harwin.com/pdfs/Harwin_PC_PCB_Hardware.pdf"
 			(at 368.3 90.17 0)
 			(effects
 				(font
@@ -16672,16 +16033,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 368.3 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" ""
+		(property "MPN" "S1751-46R"
 			(at 368.3 95.25 0)
 			(effects
 				(font
@@ -16694,7 +16046,7 @@
 			(uuid "d842c6f4-457c-44f9-966f-3ba138c08849")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "TP12")
 					(unit 1)
@@ -16760,7 +16112,7 @@
 			(uuid "9cd3270e-0011-46d6-9c8c-10d9926b23db")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR030")
 					(unit 1)
@@ -16802,7 +16154,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2403291504_YXC-X322512MMB4SI_C50430.pdf"
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_YXC-X322512MSB4SI_C9002.pdf"
 			(at 152.4 46.99 0)
 			(effects
 				(font
@@ -16812,24 +16164,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 152.4 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C50430"
-			(at 152.4 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "X322512MMB4SI"
 			(at 152.4 46.99 0)
 			(effects
 				(font
@@ -16851,7 +16185,7 @@
 			(uuid "4b599c05-5d87-4a8e-9378-3087b11498c9")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "Y1")
 					(unit 1)
@@ -16896,7 +16230,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_YAGEO-RC0805JR-07360RL_C137444.pdf"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 179.832 241.808 0)
 			(effects
 				(font
@@ -16923,15 +16257,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C137444"
-			(at 179.832 241.808 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "bb37d037-d788-4a72-b11e-08ddfa963504")
 		)
@@ -16939,7 +16264,7 @@
 			(uuid "cd1a1325-9e1e-4b16-beea-9e033b5a4730")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "R11")
 					(unit 1)
@@ -16983,7 +16308,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21B104KCFNNNE_C28233.pdf"
+		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL10B104KB8NNWC_Spec.pdf"
 			(at 229.87 33.02 0)
 			(effects
 				(font
@@ -17010,16 +16335,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL21B104KCFNNNE"
-			(at 229.87 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C28233"
+		(property "MPN" "CL10B104KB8NNWC"
 			(at 229.87 33.02 0)
 			(effects
 				(font
@@ -17035,7 +16351,7 @@
 			(uuid "f0fbc933-974e-4daf-b0d4-17cd57e8a613")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "C9")
 					(unit 1)
@@ -17101,7 +16417,7 @@
 			(uuid "ed6710e9-b0a3-4be8-95c2-8c938881600b")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR01")
 					(unit 1)
@@ -17146,7 +16462,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn.harwin.com/pdfs/Harwin_PC_PCB_Hardware.pdf"
 			(at 60.96 50.8 0)
 			(effects
 				(font
@@ -17164,16 +16480,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 60.96 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" ""
+		(property "MPN" "S1751-46R"
 			(at 60.96 45.72 0)
 			(effects
 				(font
@@ -17186,7 +16493,7 @@
 			(uuid "4b365a8e-7b38-42fe-92f1-f71df60c58f7")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "TP3")
 					(unit 1)
@@ -17230,7 +16537,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2201101600_Raspberry-Pi-RP2040_C2040.pdf"
+		(property "Datasheet" "https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf"
 			(at 274.32 149.86 0)
 			(effects
 				(font
@@ -17257,16 +16564,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RP2040"
-			(at 274.32 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C2040"
+		(property "MPN" "SC0914(13)"
 			(at 274.32 149.86 0)
 			(effects
 				(font
@@ -17447,7 +16745,7 @@
 			(uuid "816e56c2-893f-46a2-be1e-64b5d9059b5b")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "U1")
 					(unit 1)
@@ -17490,7 +16788,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010030_UNI-ROYAL-Uniroyal-Elec-0805W8F5101T5E_C27834.pdf"
+		(property "Datasheet" "~"
 			(at 73.66 41.91 0)
 			(effects
 				(font
@@ -17508,24 +16806,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C27834"
-			(at 73.66 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "0805W8F5101T5E"
-			(at 73.66 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "7f71a2bd-743c-4ab8-a8ad-ec76d94b6f9a")
 		)
@@ -17533,7 +16813,7 @@
 			(uuid "858e572d-ca11-4989-b631-ffccaa98f43d")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "R7")
 					(unit 1)
@@ -17576,7 +16856,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2303271630_G-Switch-GT-USB-7010ASV_C2988369.pdf"
+		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
 			(at 44.45 49.53 0)
 			(effects
 				(font
@@ -17586,24 +16866,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 40.64 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C2988369"
-			(at 40.64 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "GT-USB-7010ASV"
 			(at 40.64 49.53 0)
 			(effects
 				(font
@@ -17658,7 +16920,7 @@
 			(uuid "ac40269a-b3d0-4bb2-9d3f-311de8f30969")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "J3")
 					(unit 1)
@@ -17701,7 +16963,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_JST-B2B-XH-A-LF-SN_C158012.pdf"
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eXH.pdf"
 			(at 29.21 208.28 0)
 			(effects
 				(font
@@ -17719,16 +16981,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "B2B-XH-A(LF)(SN)"
-			(at 29.21 208.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C158012"
+		(property "MPN" "S2B-XH-A(LF)(SN)"
 			(at 29.21 208.28 0)
 			(effects
 				(font
@@ -17744,7 +16997,7 @@
 			(uuid "8546c68a-aa5c-402c-a60a-15a159ec807c")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "J1")
 					(unit 1)
@@ -17786,7 +17039,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL21B105KBFNNNE_C28323.pdf"
+		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL10B105KA8NNNC_spec.pdf"
 			(at 241.3 33.02 0)
 			(effects
 				(font
@@ -17813,16 +17066,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL21B105KBFNNNE"
-			(at 241.3 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C28323"
+		(property "MPN" "CL10B105KA8NNNC"
 			(at 241.3 33.02 0)
 			(effects
 				(font
@@ -17838,7 +17082,7 @@
 			(uuid "ab36cf25-9140-45f3-a4b1-db6d675e7dc1")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "C10")
 					(unit 1)
@@ -17904,7 +17148,7 @@
 			(uuid "99a28b33-ad37-4a83-aa84-3946aeb9a825")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR09")
 					(unit 1)
@@ -17949,7 +17193,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_JST-B2B-XH-A-LF-SN_C158012.pdf"
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eXH.pdf"
 			(at 54.61 212.09 0)
 			(effects
 				(font
@@ -17967,16 +17211,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "B2B-XH-A(LF)(SN)"
-			(at 54.61 212.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C158012"
+		(property "MPN" "S2B-XH-A(LF)(SN)"
 			(at 54.61 212.09 0)
 			(effects
 				(font
@@ -17992,7 +17227,7 @@
 			(uuid "263cdf14-15b3-4588-9577-5717b2559214")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "SW1")
 					(unit 1)
@@ -18037,7 +17272,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn.harwin.com/pdfs/Harwin_PC_PCB_Hardware.pdf"
 			(at 177.546 211.836 0)
 			(effects
 				(font
@@ -18055,16 +17290,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 172.466 211.836 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" ""
+		(property "MPN" "S1751-46R"
 			(at 172.466 211.836 0)
 			(effects
 				(font
@@ -18077,7 +17303,7 @@
 			(uuid "b5cedb22-98ff-4bc8-ac15-67fb3605c421")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "TP8")
 					(unit 1)
@@ -18119,7 +17345,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1811142111_Winbond-Elec-W25Q128JVSIQ_C97521.pdf"
+		(property "Datasheet" "http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf"
 			(at 40.386 149.098 0)
 			(effects
 				(font
@@ -18137,16 +17363,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "W25Q128JVSIQ"
-			(at 87.63 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C97521"
+		(property "MPN" "W25Q128JVPIQ TR"
 			(at 87.63 135.89 0)
 			(effects
 				(font
@@ -18180,7 +17397,7 @@
 			(uuid "b98fc31c-c63a-425e-adaf-a7fa1659d65e")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "U2")
 					(unit 1)
@@ -18245,7 +17462,7 @@
 			(uuid "ed3daf08-9665-4e4f-a369-ea8cb6871191")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR024")
 					(unit 1)
@@ -18311,7 +17528,7 @@
 			(uuid "61f1e341-381d-45a2-9f87-294725f0d56e")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR02")
 					(unit 1)
@@ -18353,7 +17570,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21B104KCFNNNE_C28233.pdf"
+		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL10B105KA8NNNC_spec.pdf"
 			(at 314.96 33.02 0)
 			(effects
 				(font
@@ -18380,16 +17597,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL21B104KCFNNNE"
-			(at 314.96 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C28233"
+		(property "MPN" "CL10B105KA8NNNC"
 			(at 314.96 33.02 0)
 			(effects
 				(font
@@ -18405,7 +17613,7 @@
 			(uuid "2c095839-6b05-4db9-9ba2-651c98f7cfae")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "C15")
 					(unit 1)
@@ -18471,7 +17679,7 @@
 			(uuid "7a42ac9a-0a95-4fa1-9d06-cb6f7eced007")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR022")
 					(unit 1)
@@ -18536,7 +17744,7 @@
 			(uuid "35db6388-9818-4f00-a6f9-4316f4e586d3")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR015")
 					(unit 1)
@@ -18601,7 +17809,7 @@
 			(uuid "39de88cb-cbeb-4d6a-b76c-253f016ffc35")
 		)
 		(instances
-			(project "50x50 2 Layer"
+			(project "Tut-Board"
 				(path "/b892e170-ef0c-4b15-b39f-f71a7f152a1f"
 					(reference "#PWR012")
 					(unit 1)
