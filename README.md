@@ -2,14 +2,21 @@
 Here's where you'll find basic examples of a flight computer board using the RP2040 microcontroller. 
 
 We have two different example sizes.  
-(50mm x 50mm) This shows it's possible to design a 2-layer 50mm x 50mm board to fit the minimum rocket tube diameter of 50mm. Made by Grayson. This is the one we have ordered and will be avalible to pass around.
-(66mm x 66mm) This 2-layer example board is slightly bigger but small enough to fit in an L2 rocket. Made by Kaden.  
+  
+(50mm x 50mm) This shows it's possible to design a 2-layer 50mm x 50mm board to fit the minimum rocket tube diameter of 50mm. Made by Grayson. This is the one we have ordered and will be avalible to pass around.  
+  
+~~(66mm x 66mm) This 2-layer example board is slightly bigger but small enough to fit in an L2 rocket. Made by Kaden.~~  
+Unfortunatly this board has some issues at the moment, we might look into fixing it. Left for now as it shows a different general approach.
 
 > [!NOTE]
-> While making a 2-layer 50mm x 50mm board is possible, routing something this small can be quite a puzzle especially to do nicely. It will mean though that you could use a 4-layer board which helps a bit. Otherwise, we'd suggest something like 66mm x 66mm, which would still fit in an L2 rocket (70mm tube). If your not planning on doing level 2 feel free to go upto the max size of 100mm x 90mm.
+> While making a 2-layer 50mm x 50mm board is possible, routing something this small can be quite a puzzle especially to do nicely. If you do target 50x50 we would reccomend a 4-layer board. Otherwise, we'd suggest something either 66x66mm or 88x88mm.
 
 > [!CAUTION]
 > We are not experts and are still all learning a lot ourselves. As such some of these designs may be suboptimal, don't take them as best practice. If you see an issue with any of the boards, or even just think you do, feel free to create an issue so we can all learn.
+
+## Templates
+
+These are barebones files to use as a starting point, and very simply include a board outline with holes that will match with our sleds, the RP2040 footprint and the Sense module footprint. Avalible in 50x50, 66x66 and 88x88 to modify as you wish.
 
 ## Resources / Datasheets
 **_Please look_** at the datasheets for any major components you plan to use, e.g. (Voltage regulator, RP2040, Flash chip, Screen, LEDs, USB-C connector, etc..) They provide the information necessary to integrate them with your project and if any extra components are needed to work correctly.
